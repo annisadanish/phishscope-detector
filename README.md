@@ -1,7 +1,4 @@
 # PhishScope
-A phishing URL risk analyzer with machine learning and transparent security rules.
-
-# PhishScope
 
 PhishScope is a beginner-friendly phishing URL risk analyzer built with Python, Streamlit, and machine learning. It examines the text of a URL without opening the website, making the analysis safer for educational use.
 
