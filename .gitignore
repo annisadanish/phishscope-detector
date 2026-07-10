@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.streamlit/
+
+data/*.csv
+data/*.zip
+
+models/*.joblib
+models/*.pkl
+
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
